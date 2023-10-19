@@ -8,7 +8,7 @@
 
 
 ## Proyecto: Contador binario.
-![Tinkercad](./img/ContadorBinario.png)
+![Tinkercad](./img/Parte 1.jpg)
 
 
 ## Descripción

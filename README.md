@@ -1,5 +1,5 @@
 # Ejemplo Documentación 
-![Tinkercad](./img/ArduinoTinkercad.jpg)
+![Tinkercad](./img/Parte1.png)
 
 
 ## Integrantes 

@@ -7,7 +7,10 @@
 
 
 ## Descripción
-En este parrafo deberan describir que funcion cumple su proyecto. Que solucion esta ofreciendo.
+Diseñar un contador de 0 a 99 utilizando dos displays de 7 segmentos y tres botones para
+controlar la cuenta. Debes implementar la técnica de multiplexación para mostrar los dígitos
+en los displays. El contador debe comenzar en 0 y debe ser capaz de aumentar o disminuir
+su valor en una unidad con los botones.
 
 ## Función principal
 La funcion se basa en las funciones prenderDigito(), la cual se encarga de encender y apagar los displays de 7 pines para alternar
@@ -29,10 +32,11 @@ void mostrarNumero(int numero){
 }
 ~~~
 
-## :robot: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/aOYiibnDjWu)
-## :tv: Link al video del proceso
-- [video](https://www.youtube.com/watch?v=VyGjE8kx-O0)
+## Link al proyecto
+Parte 1
+- [proyecto]([https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/cPZRakO8v8l?sharecode=4zw4omYo43QWZ-cez5j4xP895Vi6cKD3WPHlrawGe_s))
+Parte 2
+- [proyecto](https://www.tinkercad.com/things/8SHYNW3vZca?sharecode=UxRMu7hsoRyqP1zi-bpJfc38KqyYmoQy4ftVkYA3EmE)
 
 ---
 ### Fuentes

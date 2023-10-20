@@ -1,33 +1,31 @@
-# Ejemplo Documentación 
-![Tinkercad](./img/Parte1.png)
-
-
 ## Integrantes 
-- Esteban M. Quiroz
-- Dario Cuda 
+- Federico Javier Rodriguez
 
 
 ## Proyecto: Contador binario.
-![Tinkercad](./img/Parte 1.jpg)
+![Tinkercad](./img/Parte1.png)
 
 
 ## Descripción
 En este parrafo deberan describir que funcion cumple su proyecto. Que solucion esta ofreciendo.
 
 ## Función principal
-Esta funcion se encarga de encender y apagar los leds.
-
-B0, B1, B2, B3 son #define que utilizamos para agregar los leds, asociandolo a pines de la placa arduino.
-
-(Breve explicación de la función)
+La funcion se basa en las funciones prenderDigito(), la cual se encarga de encender y apagar los displays de 7 pines para alternar
+que numero se muestra (Unidad y decena) y en la funcion prenderNumero(), la cual recibe como parametro un numero para mostrar por display.
+En el caso de la decena se utiliza la operacion de division para mostrar el numero correspondiente a dicho display, mientras que para la unidad, se utiliza
+la funcion modulo. Esta logica esta limitada para mostrar solamente numero con un maximo de dos digitos.
 
 ~~~ C (lenguaje en el que esta escrito)
-void EncenderBinario(int estado3, int estado2,int estado1,int estado0)
+void mostrarNumero(int numero){
 {
-  digitalWrite(B3,estado3);
-  digitalWrite(B2,estado2);
-  digitalWrite(B1,estado1);
-  digitalWrite(B0,estado0);
+  // PRENDER NUMERO DECENA
+  prenderDigito(APAGADO);
+  prenderNumero(numero/10);
+  prenderDigito(DECENA);
+  // PRENDER NUMERO UNIDAD
+  prenderDigito(APAGADO);
+  prenderNumero(numero%10);
+  prenderDigito(UNIDAD);
 }
 ~~~
 

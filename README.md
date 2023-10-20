@@ -34,9 +34,9 @@ void mostrarNumero(int numero){
 
 ## Link al proyecto
 Parte 1
-- [proyecto]([https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/cPZRakO8v8l?sharecode=4zw4omYo43QWZ-cez5j4xP895Vi6cKD3WPHlrawGe_s))
+- [proyecto Parte 1]([https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/cPZRakO8v8l?sharecode=4zw4omYo43QWZ-cez5j4xP895Vi6cKD3WPHlrawGe_s))
 Parte 2
-- [proyecto](https://www.tinkercad.com/things/8SHYNW3vZca?sharecode=UxRMu7hsoRyqP1zi-bpJfc38KqyYmoQy4ftVkYA3EmE)
+- [proyecto Parte 2](https://www.tinkercad.com/things/8SHYNW3vZca?sharecode=UxRMu7hsoRyqP1zi-bpJfc38KqyYmoQy4ftVkYA3EmE)
 
 ---
 ### Fuentes

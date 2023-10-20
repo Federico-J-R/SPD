@@ -38,4 +38,6 @@ void mostrarNumero(int numero){
 - [proyecto Parte 2.1](https://www.tinkercad.com/things/8SHYNW3vZca?sharecode=UxRMu7hsoRyqP1zi-bpJfc38KqyYmoQy4ftVkYA3EmE)
 
 - [proyecto Parte 2.2](https://www.tinkercad.com/things/dAmwa2TJFZ8?sharecode=Z9OxSiw9o3XoiCG8D6WIGtDXGqcfqlGiPRuVMMkt_aU)
+  
+- [proyecto Parte 3](https://www.tinkercad.com/things/iMcCFf0yZyk?sharecode=-OHlYV-KR3sQyBG7x9PNRmm_n5a-KCH74JQI4oLUq_A)
 
